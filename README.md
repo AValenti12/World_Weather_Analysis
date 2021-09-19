@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+The main purpose of this project was to build off of and improve the existing PlanMyTrip app. A few  updates include adding a description of the weather, being able to input prefrences on weather and identify travel destinations and nearby hotels. From there we also added being able to select four cities to create/plan a trip and used Google Maps Directions to create a travel route between the four cities. 
